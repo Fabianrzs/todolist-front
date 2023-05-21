@@ -1,3 +1,3 @@
 /// <reference types="react-scripts" />
 
-BackEndUrl= 'http://localhost:5052/api/'
+BackEndUrl = 'https://backendapptodolist.azurewebsites.net/api/'
